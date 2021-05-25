@@ -1,0 +1,1 @@
+alise npp='notepad++.exe -multiInst -nosession'
